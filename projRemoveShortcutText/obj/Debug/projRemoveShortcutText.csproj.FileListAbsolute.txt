@@ -4,3 +4,10 @@ E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\bin\Debug\
 E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\bin\Debug\remShort.pdb
 E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\obj\Debug\remShort.exe
 E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\obj\Debug\remShort.pdb
+E:\Hobbies\Programming\DotNET\Projects\MyUtilities\solRemoveShortcutText\projRemoveShortcutText\obj\Debug\remShort.exe
+E:\Hobbies\Programming\DotNET\Projects\MyUtilities\solRemoveShortcutText\projRemoveShortcutText\obj\Debug\remShort.pdb
+E:\Hobbies\Programming\DotNET\Projects\MyUtilities\solRemoveShortcutText\projRemoveShortcutText\bin\Debug\remShort.exe.config
+E:\Hobbies\Programming\DotNET\Projects\MyUtilities\solRemoveShortcutText\projRemoveShortcutText\bin\Debug\remShort.exe
+E:\Hobbies\Programming\DotNET\Projects\MyUtilities\solRemoveShortcutText\projRemoveShortcutText\bin\Debug\remShort.pdb
+E:\Hobbies\Programming\DotNET\Projects\MyUtilities\solRemoveShortcutText\projRemoveShortcutText\obj\Debug\projRemoveShortcutText.csprojResolveAssemblyReference.cache
+E:\Hobbies\Programming\DotNET\Projects\MyUtilities\solRemoveShortcutText\projRemoveShortcutText\obj\Debug\projRemoveShortcutText.csproj.CoreCompileInputs.cache

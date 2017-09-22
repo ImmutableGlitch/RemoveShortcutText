@@ -1,0 +1,6 @@
+E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\obj\Debug\projRemoveShortcutText.csprojResolveAssemblyReference.cache
+E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\bin\Debug\remShort.exe.config
+E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\bin\Debug\remShort.exe
+E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\bin\Debug\remShort.pdb
+E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\obj\Debug\remShort.exe
+E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\obj\Debug\remShort.pdb

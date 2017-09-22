@@ -1,0 +1,5 @@
+E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\bin\Release\remShortcut.exe.config
+E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\bin\Release\remShortcut.exe
+E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\bin\Release\remShortcut.pdb
+E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\obj\Release\remShortcut.exe
+E:\Programming\Git\repos\solRemoveShortcutText\projRemoveShortcutText\obj\Release\remShortcut.pdb
